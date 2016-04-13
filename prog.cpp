@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-nt main() {
+int main() {
 	cout << "prog";
 	return 0;
 }
