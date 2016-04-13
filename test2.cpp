@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "FAIL\n";
+	cout << "SUCCEED";
 	return 0;
 }
